@@ -1,0 +1,5 @@
+[
+    { "model": "Model S", "manufacturer": "Tesla", "year": 2020, "mileage": 10000 },
+    { "model": "Model 3", "manufacturer": "Tesla", "year": 2021, "mileage": 5000 },
+    { "model": "Mustang", "manufacturer": "Ford", "year": 2019, "mileage": 15000 }
+]
